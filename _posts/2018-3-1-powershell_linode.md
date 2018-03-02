@@ -54,10 +54,10 @@ tags: 工具
 |区域      | 主机名   |  平均延时值  |
 | -------- | -----:  | :----:  |
 | US East|newark |123ms|
-|US South|||
-|US Central|||
-|US West|||
-|Frankfurt|||
-|London|||
-|Singapore|||
-|Tokyo 2, Japan|||
+|US South|atlanta|320ms|
+|US Central|dallas|179ms|
+|US West|fremont|248ms|
+|Frankfurt|frankfurt|300ms|
+|London|london|262ms|
+|Singapore|singapore|300ms|
+|Tokyo 2, Japan|shg1|107ms|
