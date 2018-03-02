@@ -5,5 +5,12 @@ date: 2018-2-05
 tags: 工具    
 ---
 
+主体需求是：
+- [ ] 开发一个TCPserver
+- [ ] 定时发送固定的十六进制字符串
+
+
+
+
 首先界面的
 ![主要界面](/images/posts/qtfortcpserver/main_ui.png)
