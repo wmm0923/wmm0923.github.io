@@ -1,8 +1,8 @@
 ---
 layout: post
 title: RabbitMQ消息队列跨语言demo（go和python）
-date: 2018-03-06 
-tags: 消息队列,go    
+date: 2018-03-06
+tags: 消息队列 go  
 ---
 
  #前言
@@ -23,13 +23,14 @@ tags: 消息队列,go
 使用 pyhon  RabbitMQ库为pika
 首先使用 python pip工具安装pika
 
-> pip intsall pika
- 
- 显示已经安装软件
-> pip list
+ > pip intsall pika
 
+ 显示已经安装软件
+ > pip list
+
+完整源码sendmq.py
 ```
-import pika 
+import pika
 connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
 channel = connection.channel()
 channel.queue_declare(queue='hello')
@@ -42,10 +43,11 @@ connection.close()
 
 ##接收消息
 笔者go运行环境在window 系统中
-使用go   RabbitMQku 为 Go amqp client 
+使用go   RabbitMQku 为 Go amqp client
 运行go安装
 > go get github.com/streadway/amqp
 
+完整源码 receive.go
 ```
 package main
 
@@ -103,6 +105,9 @@ func main() {
 	<-forever
 }
 ```
+测试结果 截图
+![send mq](/images/posts/rabbitmq_python_go/receivemq.png)
+![receive mq](/images/posts/rabbitmq_python_go/sendmq.png)
+
 Go语言主要参考代码
 [rabbitmq tutorial-one-go ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
-
