@@ -5,7 +5,11 @@ date: 2018-08-21
 tags: http,http.request
 ---
 
+<<<<<<< HEAD
 # Golang Web框架Gin入门系列
+=======
+Golang Web框架Gin入门系列
+>>>>>>> bb6fddb02e7a07a3188a6643539f0ff6cdc439cd
 
 ## 前言
 
@@ -116,7 +120,11 @@ postman请求内容
 
 ![ run gin code](/images/posts/gin/01.png)
 
+<<<<<<< HEAD
 
+=======
+![](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-21/86828159.jpg)
+>>>>>>> bb6fddb02e7a07a3188a6643539f0ff6cdc439cd
 
 其中红色框内为HTTP  Request Body
 
