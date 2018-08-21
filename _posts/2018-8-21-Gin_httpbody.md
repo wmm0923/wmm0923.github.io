@@ -7,6 +7,9 @@ tags: http,http.request
 
 # Golang Web框架Gin入门系列
 
+Golang Web框架Gin入门系列
+
+
 ## 前言
 
 Gin是一个轻量级的Web开发框架，与重量级代表Beego的区别在于，Gin专注于Web 中Http协议处理，数据、表格解析，路由与中间件等，而Beego相对大而全，完整MVC模式，不仅包含了Web协议处理的内容，也包含了数据库的CURD(Beego光数据库的驱动都有三种 mysql/Sqlite/Postgres)
@@ -116,6 +119,7 @@ postman请求内容
 
 ![ run gin code](/images/posts/gin/01.png)
 
+![](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-21/86828159.jpg)
 
 
 其中红色框内为HTTP  Request Body
