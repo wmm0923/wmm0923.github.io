@@ -4,11 +4,9 @@ title: [Gin框架入门01]Http请求Body和Header的获取
 date: 2018-08-21
 tags: http,http.request
 ---
-
 # Golang Web框架Gin入门系列
 
 Golang Web框架Gin入门系列
-
 
 ## 前言
 
