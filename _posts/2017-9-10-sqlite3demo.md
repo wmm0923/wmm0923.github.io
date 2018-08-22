@@ -117,3 +117,4 @@ int main(int argc, char* argv[])
 工程已经上传github
 [选择chapter1工程](https://github.com/Elegant2011/ElegantBlog/tree/master/chapter1/SqliteDemo "选择chapter1工程")
 
+![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)

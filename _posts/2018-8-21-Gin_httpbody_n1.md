@@ -118,3 +118,7 @@ postman请求内容
 其中红色框内为HTTP  Request Body
 
 橙色框内为 HTTP  Request Header
+
+
+
+![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)

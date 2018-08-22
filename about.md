@@ -11,9 +11,11 @@ title: 关于我
 
 
 <p>
-
 邮箱：starelegant@163.com
 
+作者微信公众号：niceelegant
+
+![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)
 
 <p>
 
@@ -26,9 +28,6 @@ title: 关于我
 博客主要使用了leopardpan.github.io的模板，对作者表示感谢
 
 <p> 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
 <p> 
 
 <p> 

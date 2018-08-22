@@ -111,3 +111,7 @@ func main() {
 
 Go语言主要参考代码
 [rabbitmq tutorial-one-go ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
+
+
+
+![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)
