@@ -14,7 +14,7 @@ title: 关于我
 邮箱：starelegant@163.com
 
 作者微信公众号：niceelegant
-
+<p>
 ![微信公众号](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)
 
 <p>
