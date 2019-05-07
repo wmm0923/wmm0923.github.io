@@ -1,24 +1,24 @@
 # Basic
-title: elegantm
+title: wmm
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: elegantm
+avatarTitle: wmm
 # 头像里面的描述
-avatarDesc: python / C++
+avatarDesc: java
 url: "http://baixin.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: wmm
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 1063459334
-    github: elegantm
+    weibo:
+    github: wmm0923
     # twitter: 
-    mail: elegantm88@gmail.com
+    mail: mm_wmm@126.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
