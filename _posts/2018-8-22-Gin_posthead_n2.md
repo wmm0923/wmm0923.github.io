@@ -106,7 +106,7 @@ func HandleHead( C *gin.Context)  {
 
 如下对post函数进行的测试
 
-![](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/74809242.jpg)
+![](https://pl-1254950508.cos.ap-guangzhou.myqcloud.com/baseImg/0151R37T69x05t3F0Q3KIvwWI10CyPHID.jpg?q-sign-algorithm=sha1&q-ak=AKID1ymQu9tG8uVwDNN0c9XjkaEm3B72KOn1&q-sign-time=1557212446;1557213346&q-key-time=1557212446;1557213346&q-header-list=&q-url-param-list=&q-signature=86aa9ce4328e2899edfbe9e22f9fd0736777f2c9)
 
 
 ![](http://photo-elegant.oss-cn-shanghai.aliyuncs.com/18-8-22/88408382.jpg)
